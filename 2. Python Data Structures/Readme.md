@@ -29,6 +29,7 @@ Topic: Set
 -----------
 
 Exercise  
+
 Q1.Create a set with values 1, 2, 3, 4, and 5.
 
 Q2. Add the value 6 to the set created in Q1.
@@ -38,6 +39,7 @@ Q3. Remove the value 3 from the set created in Q1.
 Topic:Tuple
 --------------
 Exercise 
+
 Q1. Create a tuple with values 1, 2, 3, and 4
 
 Q2. Print the length of the tuple created in Q1.
